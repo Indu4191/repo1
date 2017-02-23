@@ -1,0 +1,21 @@
+Tools : As per now, I am comfortable with Microsoft Excel,Tableau, SQL and Python
+
+
+Idea1:
+
+Top topics on twitter by using twitter API
+
+I take data of different states intrest in the topics discussed in Twitter
+
+
+Idea2:
+
+Traffic Data Analysis in Sydney
+Source : http://www.matrix888.com/ 
+
+Idea3:
+
+Population Trends(Australia)
+Source: Australian Bureau of Statastics
+
+I am looking forward for many more ideas and update you within a week
